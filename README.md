@@ -3,7 +3,7 @@ This repo shows how to use a Priority Queue in Java
 
 ## Pre-requisites
 
-* Ensure you have Java 8 and Above
+* Ensure you have Java 8 or Above
 * Ensure you have maven
 
 ## Running the Application
